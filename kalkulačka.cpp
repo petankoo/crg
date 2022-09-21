@@ -61,3 +61,4 @@ zaciatok:
     else {
         return 0;
     }
+}
